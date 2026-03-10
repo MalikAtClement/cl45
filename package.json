@@ -1,0 +1,12 @@
+{
+  "name": "clement_cargetter",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2",
+    "@types/bun": "^1.3.9",
+    "bun-types": "^1.3.10",
+    "vaderjs-native": "latest"
+  },
+  "devDependencies": {}
+}

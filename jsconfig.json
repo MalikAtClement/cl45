@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "Vader.createElement",
+    "jsxFragmentFactory": "Fragment"
+  },
+  "include": [
+    "app",
+    "src"
+  ]
+}
